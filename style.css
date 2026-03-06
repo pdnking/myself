@@ -115,3 +115,9 @@ hr {
     width: 180px;
   }
 }
+[target="_blank"] {
+  color: aqua;
+}
+.nem{
+  color:red;
+}
